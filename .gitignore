@@ -1,3 +1,11 @@
 *.JPG
 *.txt
+*.h5
+*.csv
+*.sh
 images/
+training/
+milkweed/
+segment_anything_plants/
+segmentation/
+*.pkl
