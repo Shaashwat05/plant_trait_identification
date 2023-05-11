@@ -9,3 +9,5 @@ milkweed/
 segment_anything_plants/
 segmentation/
 *.pkl
+*.hdf5
+segmented_images/
