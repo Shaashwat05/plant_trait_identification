@@ -11,3 +11,4 @@ segmentation/
 *.pkl
 *.hdf5
 segmented_images/
+resources/
