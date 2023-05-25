@@ -1,13 +1,26 @@
-# plant_trait_identification
+# Plant Trait Identification
 
-### data_handling - Downloading Images based on traits (Shaashwat)
+The project aims to identify physical traits in plants using images as input and identify if traits within plant species are being affected by external factors.
 
-### model_from_directory - loading data and trainingthe model (Shaashwat)
+## Algorithm 
 
-### segmenting_data - segmenting the download images for training (Shaashwat)
+## Workflow
 
-### prediction - prediciting trait value and analyzing the predictions (Shaashwat)
+## Results
 
-### milkweed_clustering - Clustering Milkweed Images (Shaashwat)
+## Execution Instructions
 
-### plant_trait_EDA - Data Analysis on the complete data (Gianna)
+
+## File Descriptions
+
+### data_handling - Downloading Images based on traits 
+
+### model_from_directory - loading data and trainingthe model 
+
+### segmenting_data - segmenting the download images for training 
+
+### prediction - prediciting trait value and analyzing the predictions 
+
+### milkweed_clustering - Clustering Milkweed Images 
+
+### plant_trait_EDA - Data Analysis on the complete data 
